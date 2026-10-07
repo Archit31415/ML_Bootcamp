@@ -1,0 +1,4 @@
+openai-whisper
+groq
+gradio
+python-dotenv
